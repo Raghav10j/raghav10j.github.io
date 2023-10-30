@@ -17,7 +17,7 @@ redirect_from:
 
 <p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a> in Software Engineering in 2021.</p>
 
-<p>My research focuses on developing techniques to ensure generative AI systems are safe, ethical, and socially responsible as their capabilities continue to rapidly advance. I am particularly interested in studying and mitigating the potential societal impacts of increasingly powerful generative models:
+<p>My research focuses on developing techniques to ensure generative AI systems are safe, ethical, and socially responsible as their capabilities continue to rapidly advance. I am particularly interested in studying and mitigating the potential societal impacts of increasingly powerful generative models with specific emphasis on the following aspects:
 <li> First item</li>
 <li> Second item</li>
 <li> Third item</li><p>
