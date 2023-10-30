@@ -15,7 +15,7 @@ redirect_from:
 
 <p>My past research experience includes working with the joint NLP Lab of IIT Patna and IIT Bombay under the guidance of <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=vvg-pAkAAAAJ&view_op=list_works&sortby=pubdate">Dr. Pushpak Bhattacharyya</a>. There, I work on a variety of NLP problems and collaborate with researchers from Microsoft, the University of Tokyo, and Amazon Alexa. More broadly, I worked on online safety, AI integrity, and user analytics. This encompasses projects such as developing advanced AI-powered content moderation techniques, testing the boundaries of LLMs, and implementing AI across sectors including education, law, and healthcare.</p>
 
-<p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a></p>
+<p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a> in Software Engineering in 2021.</p>
 
 <p><bold>Life aspiration</bold>: I wish to utilize my research experience to improve the current education landscape, contributing towards the fundamental <a href="https://www.un.org/sustainabledevelopment/education/">right to education</a>.<p>
 
