@@ -56,7 +56,7 @@ Generation for Tutoring based Virtual Agent”, IJCNN 2022. \[[Paper](https://ie
 
 ## Preprints
 
-* **Raghav Jain**, Anubhav Jangra, Sriparna Saha, Adam Jatowt. A survey on medical document summarization. \[[Paper](https://arxiv.org/abs/2212.01669)\]
+* **Raghav Jain**, Anubhav Jangra, Sriparna Saha, Adam Jatowt. "A survey on medical document summarization". \[[Paper](https://arxiv.org/abs/2212.01669)\]
 
 
 
