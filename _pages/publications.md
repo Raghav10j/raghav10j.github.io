@@ -15,7 +15,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 * Apoorva Singh, Apoorv Verma, **Raghav Jain**, Sriparna Saha, "Investigating the Impact of Multimodality and External
 Knowledge in Aspect-level Complaint and Sentiment Analysis" CIKM 2023 \[[Paper](https://dl.acm.org/doi/10.1145/3583780.3614937/)\]
 
-* **Anubhav Jangra**\*, Preksha Nema, Aravindan Raghuveer. T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation. The 2022 Conference on Empirical Methods in Natural Language Processing, 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.602/)\]
+* **Raghav Jain**\*, Apoorva Singh\*, Vivek Gangwar, Sriparna Saha, "AbCoRD: Exploiting multimodal generative approach for Aspect-based Complaint and Rationale Detection" ACM MultiMedia 2023 . \[[Paper](https://dl.acm.org/doi/10.1145/3581783.3613776/)\]
 
 * Sourajit Mukherjee, **Anubhav Jangra**, Sriparna Saha, Adam Jatowt. Topic-aware multimodal summarization. Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022. \[[Paper](https://aclanthology.org/2022.findings-aacl.36/)\]
 
