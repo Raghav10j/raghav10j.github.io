@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>(Last Updated: Oct 8, 2023)</p>
+<p>(Last Updated: Oct 30, 2023)</p>
 
 <p> I am an incoming research associate at the National Centre for Text Mining at the University of Manchester, where I work under Dr. <a href="https://scholar.google.com/citations?user=quhi-K0AAAAJ&hl=en">Sophia Ananiadou</a> exploring the scientific document understanding capabilities of large language models (LLMs).</p>
 
@@ -33,7 +33,7 @@ redirect_from:
 <div style="float:left; width:100%; overflow-y: auto; height: 400px;">
 <ul>
 
-<li>08 Oct 2023 - Finally launched the <a href="https://care-program.github.io">CARE program</a>. Check out the details on <a href="https://x.com/jangraanubhav/status/1710836013214359566?s=46">this tweet</a>!</li>
+<li>08 Oct 2023 Two papers were accepted into NeurIPS workshops: one on Language Model interpretability for the <a href="https://attrib-workshop.cc/">Attributing Model Behavior at Scale workshop</a>, and a review paper on social media simulation for the <a href="http://masec.ai/">Multi-Agent Security Workshop.</a></li>
 
 <li>01 Sep 2023 - Joined Columbia University as a PhD student! </li>
 
