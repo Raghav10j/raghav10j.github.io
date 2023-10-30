@@ -26,7 +26,7 @@ redirect_from:
 
 <p>I am also a core member of <a href="https://simppl.org/">SimPPL</a>, a research collective in the global south, developing open-access trust and safety tools for international orgs. including nonprofits and newsrooms. We aim to build better civic integrity tools such as <a href="https://parrot.report/">Parrot Report</a>. We’ve worked with Anti Defamation League, <a href="https://techglobalinstitute.com/">Tech Global Institute</a>, The Sunday Times, Ippen Media, Deutsche Welle, and others on:
 <li>Study the spread of unreliable news and identify influence operations online (<a href="https://parrot.report/">Parrot Report</a>).</li>
-<li>Deploying a WhatsApp chatbot for menstrual health education, fueled by local NGO insights and societal norms.(<a href="https://sakhi.simppl.org/en">Sakhi Bot</a>)</li>
+<li>Deploying a WhatsApp chatbot for menstrual health education, fueled by local NGO insights and societal norms. (<a href="https://sakhi.simppl.org/en">Sakhi Bot</a>)</li>
 </p> 
 
 <div style="float:left; width:100%; overflow-y: auto; height: 400px;">
