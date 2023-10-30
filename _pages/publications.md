@@ -10,7 +10,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Conferences
 
-Apoorva Singh\*, **Raghav Jain**\*, Sriparna Saha, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" AACL-IJCNLP 2023. \[[Preprint Coming Soon]\]
+* Apoorva Singh\*, **Raghav Jain**\*, Sriparna Saha, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" AACL-IJCNLP 2023. \[[Preprint Coming Soon]\]
 
 * Yash Verma\*, **Anubhav Jangra**\*, Raghvendra Kumar, Sriparna Saha. Large Scale Multi-Lingual Multi-Modal Summarization Dataset. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. \[[Paper](https://aclanthology.org/2023.eacl-main.263/)\]
 
