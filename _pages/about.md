@@ -50,5 +50,6 @@ redirect_from:
 <li>Jul 2023- Our paper titled "<a href="https://www.cse.iitb.ac.in/~pb/papers/nle23-stereohate.pdf">StereoHate: Towards identifying Stereotypical Bias and Target group in Hate Speech Detection</a>" has been accepted into Natural Language Engineering Journal.</li>
 
 <li>June 2023- One paper titled <a href="https://www.springerprofessional.de/aspect-based-complaint-and-cause-detection-a-multimodal-generati/26052040">Aspect-based Complaint and Cause Detection: A Multimodal Generative Framework with External Knowledge Infusion</a> has been accepted in ECML 23 conference (Core A) </li>
+<li>May 2023- One paper titled <a href="https://aclanthology.org/2023.acl-long.404/">Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection</a> has been accepted into ACL 23 main conference.</li>
 </ul>
 </div>
