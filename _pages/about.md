@@ -17,10 +17,11 @@ redirect_from:
 
 <p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a> in Software Engineering in 2021.</p>
 
-<p>My current research interests span the following areas:<p>
+<p>My current research interests span the following areas:
 <li> First item</li>
 <li> Second item</li>
-<li> Third item</li>
+<li> Third item</li><p>
+
 
 
 
