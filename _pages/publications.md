@@ -12,7 +12,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 * **Raghav Jain**, Daivik Sojitra, Arkadeep Acharya, Sriparna Saha, Adam Jatowt, and Sandipan Dandapat, "Do Language Models Have a Common Sense regarding Time? Revisiting Temporal Commonsense Reasoning in the Era of Large Language Models" EMNLP 23. \[Preprint Coming Soon\]
 * **Raghav Jain**, Tulika Saha, Jhagrut Lalwani, and Sriparna Saha, "Can you Summarize my learnings? Towards Multi-modal Perspective-based Educational Dialogue Summarization" EMNLP 23. \[Preprint Coming Soon\]
-* Krishanu Maity1*, **Raghav Jain1**\*, Prince Jha1* , Sriparna Saha1 and Pushpak Bhattacharyya, "GenEx: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection" EMNLP 23. \[Preprint Coming Soon\]
+* Krishanu Maity\*, **Raghav Jain**\*, Prince Jha\* , Sriparna Saha1 and Pushpak Bhattacharyya, "GenEx: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection" EMNLP 23. \[Preprint Coming Soon\]
   
 * Apoorva Singh\*, **Raghav Jain**\*, Sriparna Saha, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" AACL-IJCNLP 2023. \[Preprint Coming Soon\]
 
@@ -40,13 +40,13 @@ Generation for Tutoring based Virtual Agent”, IJCNN 2022. \[[Paper](https://ie
 
 * **Raghav Jain**\*, Vaibhav Mavi\*, Anubhav Jangra*, Sriparna Saha. WIDAR - Weighted Input Document Augmented ROUGE. 44th European Conference on Information Retrieval, 2022. \[[Paper](https://arxiv.org/abs/2201.09282)\]
 
-* **Raghav Jain**\*, Prashant Kumar*, Shivam Chaudhary*, Sanjay Kumar, “Solving Community Detection in Social Networks: A comprehensive study”, ICCMC 2021. \[[Paper](https://ieeexplore.ieee.org/document/9418412)]
+* **Raghav Jain**\*, Prashant Kumar\*, Shivam Chaudhary\*, Sanjay Kumar, “Solving Community Detection in Social Networks: A comprehensive study”, ICCMC 2021. \[[Paper](https://ieeexplore.ieee.org/document/9418412)]
 
 * Anubhav Jangra\*, **Raghav Jain**\*, Vaibhav Mavi\*, Sriparna Saha, Pushpak Bhattacharyya. Semantic Extractor-Paraphraser based Abstractive Summarization. 17th International Conference on Natural Language Processing (ICON), 2020. \[[Paper](https://arxiv.org/abs/2105.01296)\]
 
 ## Workshops
 
-* Divyansh Singhvi*, Andrej Erkelens*, **Raghav Jain**\*, Diganta Misra, and Naomi Saphra, "Shapley Interactions for Complex Feature Attribution" ATTRIB 2023 (NeurIPS'23-W). \[Preprint Coming Soon\]
+* Divyansh Singhvi\*, Andrej Erkelens\*, **Raghav Jain**\*, Diganta Misra, and Naomi Saphra, "Shapley Interactions for Complex Feature Attribution" ATTRIB 2023 (NeurIPS'23-W). \[Preprint Coming Soon\]
 * Aditya Surve, Archit Rathod, Mokshit Surana, Gautam Malpani, Aneesh Shamraj, Sainath Reddy Sankepally, **Raghav Jain**, Swapneel S Mehta, "Multiagent Simulators for Social Networks" MASEC (NeurIPS'23-W).\[Preprint Coming Soon\]
 * Deep Gandhi*, **Raghav Jain**\*, Jay Gala*, Jhagrut Lalwani*, Swapneel S Mehta*, "Expanding Access to ML Research through Student-led Collaboratives", NeurIPS 2022 Workshop WBRC. \[[Paper](https://openreview.net/pdf?id=YBk2jG7MEaX)\]
 
