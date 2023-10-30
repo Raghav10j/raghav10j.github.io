@@ -35,6 +35,8 @@ redirect_from:
 
 <li>Oct 2023 Two papers were accepted into NeurIPS workshops: one on Language Model interpretability for the <a href="https://attrib-workshop.cc/">Attributing Model Behavior at Scale workshop</a>, and a review paper on social media simulation for the <a href="http://masec.ai/">Multi-Agent Security Workshop.</a></li>
 
+<li> Our AACL 23 paper, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" has been selected for the Area Chair Award(Information Extraction) </li>
+
 <li>Oct 2023 Three of my papers have been accepted for the EMNLP '23 conference: two for the main conference and one for the findings section. Preprint coming soon.</li>
 
 <li>13 Jul 2023 - Journal Paper "A Survey on Multi-modal Summarization" got accepted in <a href="https://dl.acm.org/journal/csur">ACM Computing Surveys</a>.</li>
