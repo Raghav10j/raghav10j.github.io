@@ -41,7 +41,7 @@ redirect_from:
 
 <li>Jul 2023 Our paper titled <a href="https://dl.acm.org/doi/10.1145/3581783.3613776">"AbCoRD: Exploiting multimodal generative approach for Aspect-based Complaint and Rationale Detection"</a> has been accepted for publication in ACM MM 2023, a Core A* conference.</li>
 
-<li>18 Jun 2023 - Conference Paper "Can Multimodal Pointer Generator Transformers Produce Topically Relevant Summaries?" got accepted in <a href="https://2023.ijcnn.org/">2023 International Joint Conference on Neural Networks (IJCNN)</a>.</li>
+<li>Jul 2023 Our paper titled "<a href="https://www.researchgate.net/publication/374324622_T-VAKS_A_Tutoring-Based_Multimodal_Dialog_System_via_Knowledge_Selection">T-VAKS: A Tutoring-Based Multimodal Dialog System via Knowledge Selection</a>" has been accepted for publication in ECAI 2023, a Core A conference. </li>
 
 <li>Attending EACL 2023 in person. Hit me up if you are around! </li>
 
