@@ -18,10 +18,10 @@ redirect_from:
 
 <p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a> in Software Engineering in 2021.</p>
 
-<p><bold>My research focuses on developing techniques to ensure generative AI systems are safe, ethical, and socially responsible as their capabilities continue to rapidly advance. I am particularly interested in studying and mitigating the potential societal impacts of increasingly powerful generative models, with specific emphasis on the following aspects:
+<p><bold>My research focuses on developing techniques to ensure generative AI systems are safe, ethical, and socially responsible as their capabilities continue to rapidly advance. I am particularly interested in studying and mitigating the potential societal impacts of increasingly powerful generative models, with specific emphasis on the following aspects</bold:
 <li>Investigating techniques to detect and mitigate potential misuse of generative AI for harmful purposes like spreading misinformation, toxicity, and influence operations on social media. Exploring best practices to develop generative models resilient to malicious applications.</li>
 <li>Analyzing sources of social bias in generative models, including assessing impacts of training data. Researching methods to measure, understand, and reduce inherent biases in order to make generative systems more fair and inclusive. Evaluating approaches for enabling models to "forget" or override harmful biases.</li>
-<li>Advancing understanding of large language model training dynamics and interpretability. Studying how linguistic relationships emerge and features interact during the training process.</li></bold><p>
+<li>Advancing understanding of large language model training dynamics and interpretability. Studying how linguistic relationships emerge and features interact during the training process.</li>><p>
 
 
 
