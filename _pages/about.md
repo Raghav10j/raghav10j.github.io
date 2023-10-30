@@ -15,11 +15,7 @@ redirect_from:
 
 <p>My past research experience includes working with the joint NLP Lab of IIT Patna and IIT Bombay under the guidance of <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=vvg-pAkAAAAJ&view_op=list_works&sortby=pubdate">Dr. Pushpak Bhattacharyya</a>. There, I work on a variety of NLP problems and collaborate with researchers from Microsoft, the University of Tokyo, and Amazon Alexa. More broadly, I worked on online safety, AI integrity, and user analytics. This encompasses projects such as developing advanced AI-powered content moderation techniques, testing the boundaries of LLMs, and implementing AI across sectors including education, law, and healthcare.</p>
 
-<!-- I was an active member of the <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>, where I worked on summarization, including extractive and abstractive text summarization, and multi-modal summarization. I also explored other research problems like complaint mining, neural machine translation, time series classification, and lexico-semantic relation analysis. </p> -->
-
-<!-- My current supervisors include [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) (Associate Professor, IIT Patna), [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor, IIT Bombay), [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor, Kyoto University), [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor, University of Caen Normandie), and [Dr. Mohammed Hasanuzzaman](https://mohammedhasanuzzaman.github.io/) (Lecturer, Cork Institute of Technology). -->
-
-<!-- <p>My research interests include natural language processing (NLP) and multi-modal content processing. However, I'm always seeking out new research directions to explore, and am always looking forward to working with people from various cultures and backgrounds, and develop interesting real-world projects.</p> --> 
+<p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a></p>
 
 <p><bold>Life aspiration</bold>: I wish to utilize my research experience to improve the current education landscape, contributing towards the fundamental <a href="https://www.un.org/sustainabledevelopment/education/">right to education</a>.<p>
 
