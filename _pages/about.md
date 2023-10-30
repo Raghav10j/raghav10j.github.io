@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p>(Last Updated: Oct 8, 2023)</p>
 
-<p> I am an incoming research associate at the National Centre for Text Mining at the University of Manchester, where I work under Dr. <a href="https://scholar.google.com/citations?user=quhi-K0AAAAJ&hl=en">Sophia Ananiadou </a> exploring the scientific document understanding capabilities of large language models (LLMs).</p>
+<p> I am an incoming research associate at the National Centre for Text Mining at the University of Manchester, where I work under Dr. <a href="https://scholar.google.com/citations?user=quhi-K0AAAAJ&hl=en">Sophia Ananiadou</a> exploring the scientific document understanding capabilities of large language models (LLMs).</p>
 
 <p> Previously, I was working at <a href="https://research.google/locations/india/">Google Research India</a> as a pre-doctoral researcher in the Advertising Sciences team with <a href="https://research.google/people/107631/">Dr. Aravindan Raghuveer</a> and <a href="https://research.google/people/107624/">Dr. Preksha Nema</a> on text style transfer for creative ad generation.
 
