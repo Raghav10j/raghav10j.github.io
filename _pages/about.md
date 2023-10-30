@@ -11,9 +11,7 @@ redirect_from:
 
 <p> I am an incoming research associate at the National Centre for Text Mining at the University of Manchester, where I work under Dr. <a href="https://scholar.google.com/citations?user=quhi-K0AAAAJ&hl=en">Sophia Ananiadou</a> exploring the scientific document understanding capabilities of large language models (LLMs).</p>
 
-<p> Previously, I was working at <a href="https://research.google/locations/india/">Google Research India</a> as a pre-doctoral researcher in the Advertising Sciences team with <a href="https://research.google/people/107631/">Dr. Aravindan Raghuveer</a> and <a href="https://research.google/people/107624/">Dr. Preksha Nema</a> on text style transfer for creative ad generation.
-
-<!-- <p>I'm a Pre-doctoral Researcher at <a herf="https://research.google/locations/india/">Google Research India</a> in the Advertising Sciences team lead by <a href="https://research.google/people/107631/">Dr. Aravindan Raghuveer</a>. </p> -->
+<p> I also currently collaborate with the <a href="http://www.robots.ox.ac.uk/~tvg/"></a>aOxford TVG Lab (Philip Torr)and Meta researchers (<a href="https://scholar.google.com/citations?user=HX0BfLYAAAAJ&hl=en"></a>aSer Nam Lim) on identifying and mitigating the potential for influence operations on social media using LLMs.</p>[
 
 <p>I received my undergraduate degree from <a href="https://www.iitp.ac.in/">IIT Patna</a>. I was an active member of the <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>, and worked on several facets of summarization (check out <a href="/publications">publications</a> for more). </p>
 
