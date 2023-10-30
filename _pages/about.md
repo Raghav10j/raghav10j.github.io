@@ -1,50 +1,81 @@
 ---
 permalink: /
-title: "Raghav Jain"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<p>(Last Updated: Oct 8, 2023)</p>
 
-Hi
+<p> I am an incoming research associate at the National Centre for Text Mining at the University of Manchester, where I work under Dr. <a href="https://scholar.google.com/citations?user=quhi-K0AAAAJ&hl=en">Sophia Ananiadou exploring the scientific document understanding capabilities of large language models (LLMs).</p>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<p> Previously, I was working at <a href="https://research.google/locations/india/">Google Research India</a> as a pre-doctoral researcher in the Advertising Sciences team with <a href="https://research.google/people/107631/">Dr. Aravindan Raghuveer</a> and <a href="https://research.google/people/107624/">Dr. Preksha Nema</a> on text style transfer for creative ad generation.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!-- <p>I'm a Pre-doctoral Researcher at <a herf="https://research.google/locations/india/">Google Research India</a> in the Advertising Sciences team lead by <a href="https://research.google/people/107631/">Dr. Aravindan Raghuveer</a>. </p> -->
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<p>I received my undergraduate degree from <a href="https://www.iitp.ac.in/">IIT Patna</a>. I was an active member of the <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>, and worked on several facets of summarization (check out <a href="/publications">publications</a> for more). </p>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!-- I was an active member of the <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>, where I worked on summarization, including extractive and abstractive text summarization, and multi-modal summarization. I also explored other research problems like complaint mining, neural machine translation, time series classification, and lexico-semantic relation analysis. </p> -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- My current supervisors include [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) (Associate Professor, IIT Patna), [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor, IIT Bombay), [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor, Kyoto University), [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor, University of Caen Normandie), and [Dr. Mohammed Hasanuzzaman](https://mohammedhasanuzzaman.github.io/) (Lecturer, Cork Institute of Technology). -->
 
-**Markdown generator**
+<!-- <p>My research interests include natural language processing (NLP) and multi-modal content processing. However, I'm always seeking out new research directions to explore, and am always looking forward to working with people from various cultures and backgrounds, and develop interesting real-world projects.</p> --> 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<p><bold>Life aspiration</bold>: I wish to utilize my research experience to improve the current education landscape, contributing towards the fundamental <a href="https://www.un.org/sustainabledevelopment/education/">right to education</a>.<p>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<p>I also am a member of the <a href="https://care-program.github.io">CARE program</a>. It is a <b>C</b>ommunity for <b>A</b>I <b>R</b>esearch and <b>E</b>ducation, where you can get in touch with highly-quallified mentors who can try to help out with your research-related queries.</p> 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<div style="float:left; width:100%; overflow-y: auto; height: 400px;">
+<ul>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<li>08 Oct 2023 - Finally launched the <a href="https://care-program.github.io">CARE program</a>. Check out the details on <a href="https://x.com/jangraanubhav/status/1710836013214359566?s=46">this tweet</a>!</li>
+
+<li>01 Sep 2023 - Joined Columbia University as a PhD student! </li>
+
+<li>13 Jul 2023 - Journal Paper "A Survey on Multi-modal Summarization" got accepted in <a href="https://dl.acm.org/journal/csur">ACM Computing Surveys</a>.</li>
+
+<li>18 Jun 2023 - Conference Paper "Can Multimodal Pointer Generator Transformers Produce Topically Relevant Summaries?" got accepted in <a href="https://2023.ijcnn.org/">2023 International Joint Conference on Neural Networks (IJCNN)</a>.</li>
+
+<li>Attending EACL 2023 in person. Hit me up if you are around! </li>
+
+<li>02 May 2023 - Conference Paper "Large Scale Multi-Lingual Multi-Modal Summarization Dataset" got accepted in <a href="https://2023.eacl.org/">EACL 2023</a>.</li>
+
+<li>Attending EMNLP 2022 in person. Hit me up if you are around! </li>
+
+<li>06 Oct 2022 - Conference Paper "T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation" got accepted in <a href="https://2022.emnlp.org/">The 2022 Conference on Empirical Methods in Natural Language Processing</a>.</li>
+
+<li>21 Sep 2022 - Conference Paper "Topic-aware Multimodal Summarization" got Accepted in <a href="https://www.aacl2022.org/">The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing</a>.</li>
+
+<li>29 Jun 2022 - Conference Paper "Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations" got accepted in <a href="https://2022.acmmm.org/">30th ACM International Conference on Multimedia</a>.</li>
+
+<li>19 Apr 2022 - Preprint of our survey "A Survey on Multi-hop Question Answering and Generation" is out on ArXiV now (<a href="https://arxiv.org/abs/2204.09140">Paper Link.</a>).</li>
+
+<li>04 Apr 2022 - Conference Paper "MAKED: Multi-lingual Automatic Keyword Extraction Dataset" got accepted in <a href="https://lrec2022.lrec-conf.org/en/">13th Edition of its Language Resources and Evaluation Conference.</a>.</li>
+
+<li>19 Nov 2021 - Conference Paper "WIDAR - Weighted Input Document Augmented ROUGE" got accepted in <a href="https://ecir2022.org/">44th European Conference on Information Retrieval ECIR 2022</a>.</li>
+
+<li>24 Jul 2021 - Journal Paper "Identifying Complaints based on Semi-Supervised Mincuts" got accepted in <a href="https://www.journals.elsevier.com/expert-systems-with-applications">Elsvier's Expert Systems With Applications 2021</a>.</li>
+
+<li>19 Jul 2021 - Joined <a href="https://research.google/locations/india/">Google Research India</a> as a Pre-doctoral Researcher in the Advertising Sciences team.</li>
+
+<li>17 Jun 2021 - Joined IBM as a Global Research Mentee under the guidance of <a href="https://www.linkedin.com/in/ganesannarayanasamy/">Ganesan Narayanasamy</a>.</li>
+
+<li>01 Jun 2021 - Joined <a href="https://www.uibk.ac.at/informatik/index.html.en">University of Innsbruck</a> as a part-time Teaching Assistant for the course 2021S703836 VU (Natural Language Processing) under the supervision of <a href="https://adammo12.github.io/adamjatowt/">Prof. Adam Jatowt</a>.</li>
+
+<li>14 Apr 2021 - Conference paper (full) "Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization" got accepted in <a href="https://sigir.org/sigir2021/">44rd International ACM SIGIR Conference on Research and Development in Information Retrieval</a>.</li>
+
+<li>12 Jan 2020 - Conference paper "Semantic Extractor-Paraphraser based Abstractive Summarization" got accepted at <a href="http://www.iitp.ac.in/~ai-nlp-ml/icon2020/">17th International Conference on Natural Language Processing (ICON) 2020</a>. </li>
+
+<li>26 Dec 2020 - Invited to give a talk at <bold>PyData Patna Conference</bold> hosted by <bold>IIT Patna & IEEE</bold>.</li>
+
+<li>08 May 2020 - Received acceptance to participate in the <a href="https://sites.google.com/view/aisummerschool2020">AI Summer School</a> hosted by <a href=https://research.google/locations/india/">Google Research India</a>.</li>
+
+<li>23 Apr 2020 - Conference paper (short) "Multi-Modal Summary Generation using Multi-objective Optimization" got accepted in <a href="https://sigir.org/sigir2020/">43rd International ACM SIGIR Conference on Research and Development in Information Retrieval</a>.</li>
+
+<li>12 Sep 2019 - Conference paper (short) "Text-Image-Video Summary Generation using Joint Integer Linear Programming" got accepted in <a href="https://ecir2020.org/">42nd European Conference on Information Retrieval ECIR 2020</a>.</li>
+
+<li>10 Dec 2018 - Journal Paper "Extractive single document summarization using multi-objective optimization..." got Accepted in <a href="https://www.journals.elsevier.com/knowledge-based-systems">Elsvier's Knowledge-Based Systems. 2018</a>.</li>
+</ul>
+</div>
