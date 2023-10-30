@@ -18,13 +18,10 @@ redirect_from:
 <p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a> in Software Engineering in 2021.</p>
 
 <p>My current research interests span the following areas:<p>
- <p> 
-- Item 1
-- Item 2
-- Item 3
-  - Sub Item 1
-  - Sub Item 2
- </p>
+1. First item
+1. Second item
+1. Third item
+
 
 
 <p>I also am a member of the <a href="https://care-program.github.io">CARE program</a>. It is a <b>C</b>ommunity for <b>A</b>I <b>R</b>esearch and <b>E</b>ducation, where you can get in touch with highly-quallified mentors who can try to help out with your research-related queries.</p> 
