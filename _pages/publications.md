@@ -35,8 +35,6 @@ Knowledge in Aspect-level Complaint and Sentiment Analysis" CIKM 2023 \[[Paper](
 
 * Sharmistha Das, Apoorva Singh, **Raghav Jain**, Sriparna Saha, Alka Maurya, "Let the model make financial senses: a Text2Text generative approach for financial complaint identification", PAKDD 2023. \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_5)\]
 
-* Deep Gandhi*, **Raghav Jain**\*, Jay Gala*, Jhagrut Lalwani*, Swapneel S Mehta*, "Expanding Access to ML Research through Student-led Collaboratives", NeurIPS 2022 Workshop WBRC. \[[Paper](https://openreview.net/pdf?id=YBk2jG7MEaX)\]
-
 * **Raghav Jain**, Tulika Saha, Souhitya Chakraborty, Sriparna Saha, ”Domain Infused Conversational Response
 Generation for Tutoring based Virtual Agent”, IJCNN 2022. \[[Paper](https://ieeexplore.ieee.org/document/9892890/)]
 
@@ -46,7 +44,11 @@ Generation for Tutoring based Virtual Agent”, IJCNN 2022. \[[Paper](https://ie
 
 * Anubhav Jangra\*, **Raghav Jain**\*, Vaibhav Mavi\*, Sriparna Saha, Pushpak Bhattacharyya. Semantic Extractor-Paraphraser based Abstractive Summarization. 17th International Conference on Natural Language Processing (ICON), 2020. \[[Paper](https://arxiv.org/abs/2105.01296)\]
 
+## Workshops
 
+* Divyansh Singhvi*, Andrej Erkelens*, **Raghav Jain**\*, Diganta Misra, and Naomi Saphra, "Shapley Interactions for Complex Feature Attribution" ATTRIB 2023 (NeurIPS'23-W). \[Preprint Coming Soon\]
+* Aditya Surve, Archit Rathod, Mokshit Surana, Gautam Malpani, Aneesh Shamraj, Sainath Reddy Sankepally, **Raghav Jain**, Swapneel S Mehta, "Multiagent Simulators for Social Networks" MASEC (NeurIPS'23-W).\[Preprint Coming Soon\]
+* Deep Gandhi*, **Raghav Jain**\*, Jay Gala*, Jhagrut Lalwani*, Swapneel S Mehta*, "Expanding Access to ML Research through Student-led Collaboratives", NeurIPS 2022 Workshop WBRC. \[[Paper](https://openreview.net/pdf?id=YBk2jG7MEaX)\]
 
 ## Journals
 
