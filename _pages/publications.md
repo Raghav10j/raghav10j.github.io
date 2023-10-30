@@ -17,7 +17,7 @@ Knowledge in Aspect-level Complaint and Sentiment Analysis" CIKM 2023 \[[Paper](
 
 * **Raghav Jain**\*, Apoorva Singh\*, Vivek Gangwar, Sriparna Saha, "AbCoRD: Exploiting multimodal generative approach for Aspect-based Complaint and Rationale Detection" ACM MultiMedia 2023 . \[[Paper](https://dl.acm.org/doi/10.1145/3581783.3613776/)\]
 
-* Sourajit Mukherjee, **Anubhav Jangra**, Sriparna Saha, Adam Jatowt. Topic-aware multimodal summarization. Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022. \[[Paper](https://aclanthology.org/2022.findings-aacl.36/)\]
+* **Raghav Jain**, Tulika Saha, Sriparna Saha, "T-VAKS: A Tutoring-based Multimodal Dialog System via Knowledge Selection" ECAI 2023  \[[Paper](https://www.researchgate.net/publication/374324622_T-VAKS_A_Tutoring-Based_Multimodal_Dialog_System_via_Knowledge_Selection)\]
 
 * Prince Jha, Gaël Dias, Alexis Lechervy, José G Moreno, **Anubhav Jangra**, Sebastião Pais, Sriparna Saha. Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations. 30th ACM International Conference on Multimedia, 2022. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548299)\]
 
