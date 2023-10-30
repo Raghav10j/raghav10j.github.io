@@ -19,9 +19,13 @@ Knowledge in Aspect-level Complaint and Sentiment Analysis" CIKM 2023 \[[Paper](
 
 * **Raghav Jain**, Tulika Saha, Sriparna Saha, "T-VAKS: A Tutoring-based Multimodal Dialog System via Knowledge Selection" ECAI 2023  \[[Paper](https://www.researchgate.net/publication/374324622_T-VAKS_A_Tutoring-Based_Multimodal_Dialog_System_via_Knowledge_Selection)\]
 
-* John Nay, David Karamardian, Sarah Lawsky, Wenting Tao, Meghana Bhat, **Raghav Jain**, Aaron Travis Lee, Jonathan H. Choi, Jungo Kasai,  "Large Language Models As Tax Attorneys: A Case Study in Legal Capabilities Emergence" \textbf{Phil. Trans. of the Royal Society A 2023}  \[[Paper](https://arxiv.org/abs/2306.07075)\]
+* John Nay, David Karamardian, Sarah Lawsky, Wenting Tao, Meghana Bhat, **Raghav Jain**, Aaron Travis Lee, Jonathan H. Choi, Jungo Kasai,  "Large Language Models As Tax Attorneys: A Case Study in Legal Capabilities Emergence" Phil. Trans. of the Royal Society A 2023  \[[Paper](https://arxiv.org/abs/2306.07075)\]
 
-* **Raghav Jain**\*, Apoorv Verma*, Apoorva Singh, Vivek Gangwar, Sriparna Saha, "Aspect-based Complaint and Cause Detection: A Multimodal Generative Framework with External Knowledge Infusion" ECML 2023. \[[Paper](https://www.springerprofessional.de/aspect-based-complaint-and-cause-detection-a-multimodal-generati/26052040)\]
+* **Raghav Jain**\*, Apoorv Verma\*, Apoorva Singh, Vivek Gangwar, Sriparna Saha, "Aspect-based Complaint and Cause Detection: A Multimodal Generative Framework with External Knowledge Infusion" ECML 2023. \[[Paper](https://www.springerprofessional.de/aspect-based-complaint-and-cause-detection-a-multimodal-generati/26052040)\]
+
+* Apoorva Singh\*, **Raghav Jain**\*, Prince Jha, Sriparna Saha, "Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection" ACL 2023 \[[Paper](https://aclanthology.org/2023.acl-long.404/)\]
+
+* Prince Jha\*, Krishanu Maity\*, **Raghav Jain**, Sriparna Saha, Pushpak Bhattacharyya, "Explain Thyself Bully': Sentiment Aided Cyberbullying Detection with Explanation" ICDAR 2023 \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41682-8_9)\]
 
 * **Raghav Jain**\*, Vaibhav Mavi\*, Anubhav Jangra*, Sriparna Saha. WIDAR - Weighted Input Document Augmented ROUGE. 44th European Conference on Information Retrieval, 2022. \[[Paper](https://arxiv.org/abs/2201.09282)\]
 
