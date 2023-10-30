@@ -10,7 +10,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Conferences
 
-* Sourajit Mukherjee, Adam Jatowt, Raghvendra Kumar, **Anubhav Jangra**, Sriparna Saha. Can Multimodal Pointer Generator Transformers Produce Topically Relevant Summaries? 2023 International Joint Conference on Neural Networks (IJCNN). \[[Paper](https://ieeexplore.ieee.org/abstract/document/10192022)\]
+Apoorva Singh\*, **Raghav Jain**\*, Sriparna Saha, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" AACL-IJCNLP 2023. \[[Preprint Coming Soon]\]
 
 * Yash Verma\*, **Anubhav Jangra**\*, Raghvendra Kumar, Sriparna Saha. Large Scale Multi-Lingual Multi-Modal Summarization Dataset. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. \[[Paper](https://aclanthology.org/2023.eacl-main.263/)\]
 
