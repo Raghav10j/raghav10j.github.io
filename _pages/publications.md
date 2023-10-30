@@ -12,7 +12,8 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 * Apoorva Singh\*, **Raghav Jain**\*, Sriparna Saha, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" AACL-IJCNLP 2023. \[Preprint Coming Soon\]
 
-* Yash Verma\*, **Anubhav Jangra**\*, Raghvendra Kumar, Sriparna Saha. Large Scale Multi-Lingual Multi-Modal Summarization Dataset. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. \[[Paper](https://aclanthology.org/2023.eacl-main.263/)\]
+* Apoorva Singh, Apoorv Verma, **Raghav Jain**, Sriparna Saha, "Investigating the Impact of Multimodality and External
+Knowledge in Aspect-level Complaint and Sentiment Analysis" CIKM 2023 \[[Paper](https://dl.acm.org/doi/10.1145/3583780.3614937/)\]
 
 * **Anubhav Jangra**\*, Preksha Nema, Aravindan Raghuveer. T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation. The 2022 Conference on Empirical Methods in Natural Language Processing, 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.602/)\]
 
