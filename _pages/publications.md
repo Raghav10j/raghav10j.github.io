@@ -21,6 +21,8 @@ Knowledge in Aspect-level Complaint and Sentiment Analysis" CIKM 2023 \[[Paper](
 
 * John Nay, David Karamardian, Sarah Lawsky, Wenting Tao, Meghana Bhat, **Raghav Jain**, Aaron Travis Lee, Jonathan H. Choi, Jungo Kasai,  "Large Language Models As Tax Attorneys: A Case Study in Legal Capabilities Emergence" \textbf{Phil. Trans. of the Royal Society A 2023}  \[[Paper](https://arxiv.org/abs/2306.07075)\]
 
+* **Raghav Jain**\*, Apoorv Verma*, Apoorva Singh, Vivek Gangwar, Sriparna Saha, "Aspect-based Complaint and Cause Detection: A Multimodal Generative Framework with External Knowledge Infusion" ECML 2023. \[[Paper](https://www.springerprofessional.de/aspect-based-complaint-and-cause-detection-a-multimodal-generati/26052040)\]
+
 * **Raghav Jain**\*, Vaibhav Mavi\*, Anubhav Jangra*, Sriparna Saha. WIDAR - Weighted Input Document Augmented ROUGE. 44th European Conference on Information Retrieval, 2022. \[[Paper](https://arxiv.org/abs/2201.09282)\]
 
 
