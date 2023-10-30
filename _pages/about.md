@@ -47,7 +47,7 @@ redirect_from:
 
 <li>Jul 2023- Our paper titled "<a href="https://www.researchgate.net/publication/374324622_T-VAKS_A_Tutoring-Based_Multimodal_Dialog_System_via_Knowledge_Selection">T-VAKS: A Tutoring-Based Multimodal Dialog System via Knowledge Selection</a>" has been accepted for publication in ECAI 2023, a Core A conference. </li>
 
-<li>Attending EACL 2023 in person. Hit me up if you are around! </li>
+<li>Jul 2023- Our paper titled "<a href="https://www.cse.iitb.ac.in/~pb/papers/nle23-stereohate.pdf">StereoHate: Towards identifying Stereotypical Bias and Target group in Hate Speech Detection</a>" has been accepted into Natural Language Engineering Journal.</li>
 
 <li>02 May 2023 - Conference Paper "Large Scale Multi-Lingual Multi-Modal Summarization Dataset" got accepted in <a href="https://2023.eacl.org/">EACL 2023</a>.</li>
 
