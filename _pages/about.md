@@ -13,7 +13,8 @@ redirect_from:
 
 <p> I also currently collaborate with the <a href="http://www.robots.ox.ac.uk/~tvg/">Oxford TVG Lab</a> (Philip Torr)and Meta researchers (<a href="https://scholar.google.com/citations?user=HX0BfLYAAAAJ&hl=en">Ser Nam Lim</a>) on identifying and mitigating the potential for influence operations on social media using LLMs.</p>
 
-<p>My past research experience includes working with the joint NLP Lab of IIT Patna and IIT Bombay under the guidance of <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=vvg-pAkAAAAJ&view_op=list_works&sortby=pubdate">Dr. Pushpak Bhattacharyya</a>. There, I work on a variety of NLP problems and collaborate with researchers from Microsoft, the University of Tokyo, and Amazon Alexa. More broadly, I worked on online safety, AI integrity, and user analytics. This encompasses projects such as developing advanced AI-powered content moderation techniques, testing the boundaries of LLMs, and implementing AI across sectors including education, law, and healthcare.</p>
+<p>My past research experience includes working with the joint NLP Lab of IIT Patna and IIT Bombay under the guidance of <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=vvg-pAkAAAAJ&view_op=list_works&sortby=pubdate">Dr. Pushpak Bhattacharyya</a>. There, I work on a variety of NLP problems and collaborate with researchers from Microsoft, the University of Tokyo, and Amazon Alexa. More broadly, I worked on online safety, AI integrity, and user analytics. This encompasses projects such as developing advanced AI-powered content moderation techniques, testing the boundaries of LLMs, and implementing AI across sectors including education, law, and healthcare. My work has led to numerous publications in top-tier venues including EMNLP 2023, ACL 2023, CIKM 2023, ECML 2023, ACM MM 2023, ECAI 2023, ECIR 2022, and IJCNN 2022/2023.
+</p>
 
 <p>I received my undergraduate degree from <a href="http://www.dtu.ac.in/">Delhi Technological University</a> in Software Engineering in 2021.</p>
 
@@ -50,6 +51,7 @@ redirect_from:
 <li>Jul 2023- Our paper titled "<a href="https://www.cse.iitb.ac.in/~pb/papers/nle23-stereohate.pdf">StereoHate: Towards identifying Stereotypical Bias and Target group in Hate Speech Detection</a>" has been accepted into Natural Language Engineering Journal.</li>
 
 <li>June 2023- One paper titled <a href="https://www.springerprofessional.de/aspect-based-complaint-and-cause-detection-a-multimodal-generati/26052040">Aspect-based Complaint and Cause Detection: A Multimodal Generative Framework with External Knowledge Infusion</a> has been accepted in ECML 23 conference (Core A) </li>
-<li>May 2023- One paper titled <a href="https://aclanthology.org/2023.acl-long.404/">Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection</a> has been accepted into ACL 23 main conference.</li>
+<li>May 2023- One paper titled <a href="https://aclanthology.org/2023.acl-long.404/">Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection</a> has been accepted into ACL 23 main conference (Core A*).</li>
+<li>April 2023- One paper titled <a href="https://link.springer.com/chapter/10.1007/978-3-031-41682-8_9">“Explain Thyself Bully”: Sentiment Aided Cyberbullying Detection with Explanation</a> has been accepted into ICDAR 23 conference (Core A)</li>
 </ul>
 </div>
