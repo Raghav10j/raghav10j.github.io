@@ -33,9 +33,9 @@ redirect_from:
 <div style="float:left; width:100%; overflow-y: auto; height: 400px;">
 <ul>
 
-<li>08 Oct 2023 Two papers were accepted into NeurIPS workshops: one on Language Model interpretability for the <a href="https://attrib-workshop.cc/">Attributing Model Behavior at Scale workshop</a>, and a review paper on social media simulation for the <a href="http://masec.ai/">Multi-Agent Security Workshop.</a></li>
+<li>Oct 2023 Two papers were accepted into NeurIPS workshops: one on Language Model interpretability for the <a href="https://attrib-workshop.cc/">Attributing Model Behavior at Scale workshop</a>, and a review paper on social media simulation for the <a href="http://masec.ai/">Multi-Agent Security Workshop.</a></li>
 
-<li>01 Sep 2023 - Joined Columbia University as a PhD student! </li>
+<li>Oct 2023 Three of my papers have been accepted for the EMNLP '23 conference: two for the main conference and one for the findings section. Preprint coming soon.</li>
 
 <li>13 Jul 2023 - Journal Paper "A Survey on Multi-modal Summarization" got accepted in <a href="https://dl.acm.org/journal/csur">ACM Computing Surveys</a>.</li>
 
