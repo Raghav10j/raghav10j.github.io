@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my complete resume [here](/files/cv.pdf)
+You can see my complete resume [here](/files/Research_Resume_Raghav_Updated_website.pdf)
