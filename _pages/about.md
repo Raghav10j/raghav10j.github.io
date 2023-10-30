@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-<p>I also am a member of the <a href="https://care-program.github.io">CARE program</a>. It is a <b>C</b>ommunity for <b>A</b>I <b>R</b>esearch and <b>E</b>ducation, where you can get in touch with highly-quallified mentors who can try to help out with your research-related queries.</p> 
+<p> I am also a core member of <a href="https://simppl.org/">SimPPL</a>, a research collective in the global south, developing open-access trust and safety tools for international orgs. including nonprofits and newsrooms</p> 
 
 <div style="float:left; width:100%; overflow-y: auto; height: 400px;">
 <ul>
