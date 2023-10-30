@@ -38,6 +38,10 @@ Generation for Tutoring based Virtual Agent”, IJCNN 2022. \[[Paper](https://ie
 
 * **Raghav Jain**\*, Vaibhav Mavi\*, Anubhav Jangra*, Sriparna Saha. WIDAR - Weighted Input Document Augmented ROUGE. 44th European Conference on Information Retrieval, 2022. \[[Paper](https://arxiv.org/abs/2201.09282)\]
 
+* **Raghav Jain**\*, Prashant Kumar*, Shivam Chaudhary*, Sanjay Kumar, “Solving Community Detection in Social Networks: A comprehensive study”, ICCMC 2021. \[[Paper](https://ieeexplore.ieee.org/document/9418412)]
+
+* Anubhav Jangra\*, **Raghav Jain**\*, Vaibhav Mavi\*, Sriparna Saha, Pushpak Bhattacharyya. Semantic Extractor-Paraphraser based Abstractive Summarization. 17th International Conference on Natural Language Processing (ICON), 2020. \[[Paper](https://arxiv.org/abs/2105.01296)\]
+
 
 
 ## Journals
