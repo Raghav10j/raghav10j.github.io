@@ -33,15 +33,19 @@ redirect_from:
 <div style="float:left; width:100%; overflow-y: auto; height: 400px;">
 <ul>
 
-<li>Oct 2023 Two papers were accepted into NeurIPS workshops: one on Language Model interpretability for the <a href="https://attrib-workshop.cc/">Attributing Model Behavior at Scale workshop</a>, and a review paper on social media simulation for the <a href="http://masec.ai/">Multi-Agent Security Workshop.</a></li>
+<li>Oct 2023- Two papers were accepted into NeurIPS workshops: one on Language Model interpretability for the <a href="https://attrib-workshop.cc/">Attributing Model Behavior at Scale workshop</a>, and a review paper on social media simulation for the <a href="http://masec.ai/">Multi-Agent Security Workshop.</a></li>
 
-<li>Oct 2023 Our AACL 23 paper, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" has been selected for the Area Chair Award(Information Extraction) </li>
+<li>Oct 2023- Our AACL 23 paper, "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" has been selected for the Area Chair Award(Information Extraction) </li>
 
-<li>Oct 2023 Three of my papers have been accepted for the EMNLP '23 conference (Core A*): two for the main conference and one for the findings section. Preprint coming soon.</li>
+<li>Oct 2023- Three of my papers have been accepted for the EMNLP '23 conference (Core A*): two for the main conference and one for the findings section. Preprint coming soon.</li>
 
-<li>Jul 2023 Our paper titled <a href="https://dl.acm.org/doi/10.1145/3581783.3613776">"AbCoRD: Exploiting multimodal generative approach for Aspect-based Complaint and Rationale Detection"</a> has been accepted for publication in ACM MM 2023, a Core A* conference.</li>
+<li>Sept 2023- One paper titled "Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework" has been accepted for the AACL 23 conference. Preprint coming soon.</li>
 
-<li>Jul 2023 Our paper titled "<a href="https://www.researchgate.net/publication/374324622_T-VAKS_A_Tutoring-Based_Multimodal_Dialog_System_via_Knowledge_Selection">T-VAKS: A Tutoring-Based Multimodal Dialog System via Knowledge Selection</a>" has been accepted for publication in ECAI 2023, a Core A conference. </li>
+<li>Aug 2023- One paper titled <a href="https://dl.acm.org/doi/10.1145/3583780.3614937">"Investigating the Impact of Multimodality and External Knowledge in Aspect-level Complaint and Sentiment Analysis"</a> has been accepted for CIKM 23 conference (A ranking conference).</li>
+
+<li>Jul 2023- Our paper titled <a href="https://dl.acm.org/doi/10.1145/3581783.3613776">"AbCoRD: Exploiting multimodal generative approach for Aspect-based Complaint and Rationale Detection"</a> has been accepted for publication in ACM MM 2023, a Core A* conference.</li>
+
+<li>Jul 2023- Our paper titled "<a href="https://www.researchgate.net/publication/374324622_T-VAKS_A_Tutoring-Based_Multimodal_Dialog_System_via_Knowledge_Selection">T-VAKS: A Tutoring-Based Multimodal Dialog System via Knowledge Selection</a>" has been accepted for publication in ECAI 2023, a Core A conference. </li>
 
 <li>Attending EACL 2023 in person. Hit me up if you are around! </li>
 
